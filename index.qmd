@@ -1,0 +1,44 @@
+---
+image: images/me.jpg
+page-layout: custom
+title: "Bianca Ribeiro de Souza"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15rem
+  id: ppc
+  links:
+    - text: "Orcid"
+      href: "https://orcid.org/0000-0001-9373-6989"
+    - text: "Google Scholar"
+      href: "https://scholar.google.com/citations?user=LIKpVmUAAAAJ&hl=en"
+    - text: "Women's health"  
+      href: "https://whri.org/staff/bianca-ribeiro-de-souza-2/"
+---
+::: {.grid}
+
+:::{.g-col-lg-11 .g-col-sm-12 .justify-content-center}
+
+:::{#ppc}
+
+🔬 Postdoctoral Research Scientist at UBC (Department of Obstetrics & Gynaecology), Vancouver, Canada.
+
+🧬 Translating molecular signatures into actionable insights to improve clinical decision-making in gynecological cancers at the [Endometriosis Oncogenomics and Pathology Research Lab](https://www.edgeresearch.ca/bianca).
+
+🎓 PhD in Molecular & Morphofunctional Biology (UNICAMP), preclinical testing of nanoimmunotherapy for urogenital cancers & immune response profiling in clinical trial.
+
+PhD research partially conducted at UBC.
+
+🔍 MSc in Biosciences (UNESP), with a focus on in vivo Pharmacology and Histology.
+
+📚 BSc + Teaching Degree in Biology (UNESP). Undergraduate thesis on in vivo Reproductive Toxicology.
+
+🌎 Passionate about translational research and improving women's health.
+
+If you use TMA-based IHC, please check out the new [TMAtools](https://edgeresearch-ca.github.io/TMAtools/) R package!
+:::
+:::
+
+
+:::
